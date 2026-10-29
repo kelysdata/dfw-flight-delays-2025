@@ -1,5 +1,7 @@
 # DFW Flight Delays Dashboard | 2025
 
+![DFW Flight Delays Dashboard](dashboard.png)
+
 ## Project Overview
 
 This project analyzes 2025 flight data for Dallas/Fort Worth International Airport (DFW). I used SQL and Power BI to explore departure delays, cancellations, monthly trends, and destinations with the highest departure delay rates.
