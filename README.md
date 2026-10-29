@@ -43,3 +43,9 @@ The destination ranking includes only destinations with at least **100 eligible 
 - **Departure delay rate:** delayed departures divided by eligible departures.
 - **Cancellation rate:** cancelled flights divided by total flights.
 - **Delayed departure:** a departure delayed by at least 15 minutes.
+
+## Opening the Power BI Report
+Download the '.pbix' file and open it in Power BI Desktop.
+The report contains the data saved with the file.
+
+To refresh the data, you may need to obtain and prepare the source data, then update the file path in Power Query to match its location on your computer.
